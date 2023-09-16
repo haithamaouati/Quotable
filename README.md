@@ -10,8 +10,8 @@ Quotable is a bash script that use Quotable a free, open source quotations API.
 - [Usage](#usage)
   - [Syntax](#syntax)
 - [Author](#author)
-- [Disclaimer](#disclaimer)
 - [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Usage
 
