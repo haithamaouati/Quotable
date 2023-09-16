@@ -8,13 +8,17 @@ Quotable is a bash script that use Quotable a free, open source quotations API.
 
 ## Table of Contents
 - [Usage](#usage)
+  - [Syntax](#syntax)
 - [Author](#author)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
 ## Usage
 
-1. Make sure you have [Figlet](http://www.figlet.org/), [jq](), [ncurses-utils]() installed on your system.
+1. Make sure you have those requirements installed on your system:
+* [figlet](http://www.figlet.org/)
+* [jq]()
+* [ncurses-utils]()
 ```
 pkg install figlet jq ncurses-utils
 ```
