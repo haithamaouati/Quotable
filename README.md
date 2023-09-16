@@ -6,6 +6,14 @@
 # Quotable
 Quotable is a bash script that use Quotable a free, open source quotations API.
 
+```
+   ___              _        _     _ 
+  / _ \ _   _  ___ | |_ __ _| |__ | | ___ 
+ | | | | | | |/ _ \| __/ _` | '_ \| |/ _ \
+ | |_| | |_| | (_) | || (_| | |_) | |  __/
+  \__\_\\__,_|\___/ \__\__,_|_.__/|_|\___|
+```
+
 ## Table of Contents
 - [Usage](#usage)
   - [Syntax](#syntax)
